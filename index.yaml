@@ -1,0 +1,9 @@
+language: "en"
+name: "English"
+sources:
+  - id: "witchculttranslations"
+    name: "Witch Cult Translations"
+    version: "1.0.0"
+    url: "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/witchculttranslations.lua"
+    icon: "https://witchculttranslation.com/wp-content/uploads/2020/04/cropped-WCT-logo-1.png"
+    language: "en"
