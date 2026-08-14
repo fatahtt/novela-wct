@@ -4,6 +4,6 @@ sources:
   - id: "witchculttranslations"
     name: "Witch Cult Translations"
     version: "1.0.0"
-    url: "url: "https://raw.githubusercontent.com/fatahtt/novela-wct/main/witchculttranslations.lua""
+    url: "url: "https://raw.githubusercontent.com/fatahtt/novela-wct/main/witchculttranslations.lua"
     icon: "https://witchculttranslation.com/wp-content/uploads/2020/04/cropped-WCT-logo-1.png"
     language: "en"
